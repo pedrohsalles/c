@@ -1,1 +1,1 @@
-"# Tecnicas de programa‡Æo" 
+"# Tecnicas de programacao" 
